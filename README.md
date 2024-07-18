@@ -14,7 +14,7 @@ Sur cet exemple, la zone du bas est donc décrite par les 4 entiers (1, 6, 1, 5)
 
 Pour chaque paire de zones, votre programme doit écrire "OUI" si les zones s'intersectent et "NON" sinon. Si elles ne font que se toucher sur les bords il doit écrire "NON".
 
-###EXAMPLE
+### EXAMPLE
 
 input:
 1
